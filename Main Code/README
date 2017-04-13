@@ -1,0 +1,6 @@
+setting1 - single cluster in 10 dimensions
+setting2 - two clusters in 4 dimensions
+setting3 - four clusters in 100 dimensions
+setting4 - ten clusters in 100 dimensions
+setting5 - four log-normal clusters in 16 dimensions
+setting6 - three exponential clusters in 20 dimensions, different variances
